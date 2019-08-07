@@ -1,0 +1,25 @@
+header,
+footer {
+  width: 100vw;
+  padding: 20px;
+  background-color: #666666;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+body {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: cornflowerblue;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+footer {
+  margin-top: 80px;
+}
