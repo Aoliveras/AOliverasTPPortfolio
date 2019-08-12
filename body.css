@@ -1,0 +1,11 @@
+body {
+  font-family: 'Libre Caslon Text', serif;
+  background: #fff6e2;
+  color: #141414;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 55%;
+  position: relative;
+}

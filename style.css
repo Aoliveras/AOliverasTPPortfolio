@@ -1,47 +1,8 @@
-* {
-  text-decoration: none;
-  min-height: 100%;
-}
+@import url('reset.css');
+@import url('header.css');
+@import url('hero.css');
+@import url('body.css');
+@import url('about.css');
+@import url('footer.css');
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:hover {
-  color: cornflowerblue;
-}
-
-nav a {
-  font-size: 1.5em;
-}
-
-header,
-footer {
-  padding: 20px;
-  background-color: #e76d6d;
-}
-
-header {
-  margin: 0;
-  width: 100%;
-}
-
-body {
-  background: #fff6e2;
-  text-align: center;
-  font-family: monospace;
-  color: #141414;
-}
-
-.wrapper {
-  margin: 0 auto;
-  max-width: 800px;
-  position: relative;
-}
-
-footer {
-  margin: 0;
-  width: 100%;
-  bottom: 0;
-}
+@import url('https://fonts.googleapis.com/css?family=Libre+Caslon+Text&display=swap');

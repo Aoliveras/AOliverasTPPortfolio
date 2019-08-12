@@ -1,0 +1,17 @@
+#about-me {
+  margin: 50px;
+}
+
+#about-me h2 {
+  color: #242424;
+  font-size: 2em;
+  text-align: center;
+  /* text-shadow: 1px 1px 1px rgba(0, 0, 0, .5); */
+}
+
+#about-me p {
+  color: #353535;
+  font-size: 1.2em;
+  line-height: 2.4em;
+  /* text-shadow: 1px 1px 2px rgb(255, 255, 255); */
+}
