@@ -3,6 +3,13 @@ header {
   font-size: 1.1em;
   padding: 20px 2em;
   text-align: right;
+  position: fixed;
+  /* Set the navbar to fixed position */
+  top: 0;
+  /* Position the navbar at the top of the page */
+  width: 95%;
+  overflow: hidden;
+  z-index: 1;
 }
 
 a {
